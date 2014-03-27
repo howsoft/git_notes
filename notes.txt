@@ -1,0 +1,9 @@
+
+mapped drive S to: \\esaki\lts-software
+
+mapped drive G to: git_stuff folder on desktop
+
+cloned a project as seen in cloning.png - so local copy is now made within git_stuff
+
+
+
